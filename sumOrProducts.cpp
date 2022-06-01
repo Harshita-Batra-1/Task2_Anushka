@@ -2,7 +2,7 @@
 using namespace std;
 //I'm commenting and editing
 int main() {
-    int n,q;
+    float n,q;// changing to have merge conflict
 	cin>>n>>q; 
     int sum=0; //declaring and initializing
    
